@@ -15,7 +15,7 @@ Navigate to kong/plugins folder and clone this repo
 <pre>
 $ cd /path/to/kong/plugins
 $ git clone https://github.com/mtormento/kong-plugin-obfuscated-log obfuscated-log
-$ cd obfuscated-log/file
+$ cd obfuscated-log/impl/file
 $ luarocks make *.rockspec
 </pre>
 
